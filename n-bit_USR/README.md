@@ -2,7 +2,7 @@
 This project give overview of RTL to GDSII of universal shift register using OpenLane and Skywater130 PDK. OpenLane is an automated open-source EDA tool which gives RTL to GDSII flow. 
 
 # Contents
-- [1 Desing and Test bench](#1-Desing-and-Test-bench)
+- [1 Design and Test bench](#1-Desing-and-Test-bench)
 - [2 OpenLane Flow](#2-OpenLane-Flow)
 - [3 OpenLane VLSI Design Execution](#3-OpenLane-VLSI-Design-Execution)
   * [3.1 Non-Interactive Mode](#3.1-Non-Interactive-Mode)
@@ -21,7 +21,7 @@ This project give overview of RTL to GDSII of universal shift register using Ope
 
   
 
-# 1 Desing and Test bench
+# 1 Design and Test bench
 
 This is 1-bit Universal Shift Register, written using Flip-Flop with case statement (universal_shift_register_1bit).
 ![usr_1bit](https://user-images.githubusercontent.com/63975346/142893103-e208d580-2bd2-4e43-b369-9cc11f55f1f2.png)
