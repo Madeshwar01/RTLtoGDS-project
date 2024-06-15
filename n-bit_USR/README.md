@@ -515,6 +515,3 @@ We overviewed the key components of OpenLane, the only open-source EDA tool whic
 
 [17] `“Config Parameters,”` https://openlane.readthedocs.io/en/develop/configuration/README.html
 
-
-# 7 Acknowledgment
-I am extremely thankful to Dr. Ramesh Kini M Associate Professor NITK, Surathkal for sharing expertise, valuable guidance and encouragement.
